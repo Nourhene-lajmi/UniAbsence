@@ -1,0 +1,10 @@
+{
+  "description": "Streamline student absence management for university administrators with a responsive dashboard featuring real-time data tracking, reporting, and certificate uploads.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
